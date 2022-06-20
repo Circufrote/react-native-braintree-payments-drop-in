@@ -15,6 +15,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.dependency "React"
-  s.dependency "BraintreeDropIn", '~> 9.5.0'
-  s.dependency "Braintree/DataCollector"
+  s.dependency "BraintreeDropIn", '~> 9.6.0'
 end
